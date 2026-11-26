@@ -6,7 +6,7 @@
 
   <img src="./assets/liquid-glass/kaynex-avatar.jpg" alt="KX liquid-glass monogram" width="96" />
 
-  <h1>Hi, I'm KAYNEX <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="wave" /></h1>
+  <h1>Hi, I'm KAYNEX 👋</h1>
   <p><strong>3D Artist&nbsp; · &nbsp;Creative Technologist</strong></p>
   <p>Automotive Visualization&nbsp; / &nbsp;Real-Time 3D&nbsp; / &nbsp;Creative Development</p>
 
