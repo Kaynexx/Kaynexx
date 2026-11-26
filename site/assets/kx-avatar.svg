@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t">
+<title id="t">KAYNEX KX liquid glass avatar</title>
+<defs>
+ <radialGradient id="bg" cx="35%" cy="22%" r="90%"><stop stop-color="#36205f"/><stop offset=".42" stop-color="#100d1d"/><stop offset="1" stop-color="#030309"/></radialGradient>
+ <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".7"/><stop offset=".18" stop-color="#c4b5fd" stop-opacity=".14"/><stop offset=".55" stop-color="#7c3aed" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#6d28d9" stop-opacity=".5"/></linearGradient>
+ <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".4" stop-color="#d8b4fe"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="13"/></filter>
+</defs>
+<circle cx="256" cy="256" r="236" fill="#8b5cf6" opacity=".22" filter="url(#blur)"/>
+<circle cx="256" cy="256" r="224" fill="url(#bg)" stroke="#d8b4fe" stroke-opacity=".65" stroke-width="5"/>
+<circle cx="256" cy="256" r="208" fill="url(#orb)" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+<path d="M75 140C142 26 337 11 428 132" fill="none" stroke="#fff" stroke-opacity=".62" stroke-width="6" stroke-linecap="round"/>
+<path d="M92 370C174 461 356 481 429 367" fill="none" stroke="#c084fc" stroke-opacity=".8" stroke-width="9" stroke-linecap="round"/>
+<path d="M75 300C155 379 251 352 352 244L435 159" fill="none" stroke="#c4b5fd" stroke-opacity=".3" stroke-width="25" filter="url(#blur)"/>
+<text x="256" y="300" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="148" letter-spacing="-13" fill="url(#shine)" stroke="#fff" stroke-opacity=".52" stroke-width="2">KX</text>
+<circle cx="384" cy="101" r="7" fill="#fff" opacity=".8"/>
+</svg>
