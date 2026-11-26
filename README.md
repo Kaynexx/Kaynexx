@@ -119,38 +119,32 @@ I’m **KAYNEX** — a 3D Artist and Creative Technologist focused on automotive
 
 ### Project details
 
-<details>
-  <summary><strong>🟢 CyberLab — learning platform</strong></summary>
-  <a id="cyberlab-details"></a>
+<a id="cyberlab-details"></a>
+#### 🟢 CyberLab — learning platform
 
-  A Flask-based web project exploring a structured cybersecurity learning experience, with learning resources, topic guides, and an organized interface.
+A Flask-based web project exploring a structured cybersecurity learning experience, with learning resources, topic guides, and an organized interface.
 
-  **Stack:** Python · Flask · HTML · CSS · JavaScript
+**Stack:** Python · Flask · HTML · CSS · JavaScript
 
-  **Stage:** In development. A public source repository will be linked here when the project is ready to publish.
-</details>
+**Stage:** In development. The public source repository will be linked here when it is ready to publish.
 
-<details>
-  <summary><strong>🟠 GamePulse — gaming observatory</strong></summary>
-  <a id="gamepulse-details"></a>
+<a id="gamepulse-details"></a>
+#### 🟠 GamePulse — gaming observatory
 
-  A dashboard concept for presenting gaming activity and player statistics with a dark, data-focused interface.
+A dashboard concept for presenting gaming activity and player statistics with a dark, data-focused interface.
 
-  **Stack:** Python · Flask · JavaScript · Three.js
+**Stack:** Python · Flask · JavaScript · Three.js
 
-  **Stage:** Prototype. A public source repository will be linked here when the project is ready to publish.
-</details>
+**Stage:** Prototype. The public source repository will be linked here when it is ready to publish.
 
-<details>
-  <summary><strong>🔵 Automotive 3D — visualization portfolio</strong></summary>
-  <a id="automotive-3d-details"></a>
+<a id="automotive-3d-details"></a>
+#### 🔵 Automotive 3D — visualization portfolio
 
-  An ongoing body of work focused on automotive renders, realistic materials, lighting setups, studio scenes, and cinematic camera work.
+An ongoing body of work focused on automotive renders, realistic materials, lighting setups, studio scenes, and cinematic camera work.
 
-  **Stack:** Blender · Unreal Engine · DaVinci Resolve
+**Stack:** Blender · Unreal Engine · DaVinci Resolve
 
-  **Portfolio:** <a href="https://www.artstation.com/txkaylo">View automotive and 3D work on ArtStation</a>
-</details>
+**Portfolio:** <a href="https://www.artstation.com/txkaylo">View automotive and 3D work on ArtStation</a>
 
 ## <img src="https://img.shields.io/badge/04-GITHUB_ACTIVITY-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B" alt="04 GitHub activity" />
 
@@ -162,8 +156,11 @@ I’m **KAYNEX** — a 3D Artist and Creative Technologist focused on automotive
   <a href="https://github.com/Kaynexx?tab=followers">
     <img src="https://img.shields.io/github/followers/Kaynexx?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B5CF6" alt="GitHub followers" />
   </a>
+  <a href="https://github.com/Kaynexx?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Kaynexx?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=PROJECT%20STARS&color=F59E0B" alt="Stars across owned repositories" />
+  </a>
   <a href="https://github.com/Kaynexx/Kaynexx/stargazers">
-    <img src="https://img.shields.io/github/stars/Kaynexx/Kaynexx?style=for-the-badge&logo=github&logoColor=white&label=PROFILE%20REPO%20STARS&color=F59E0B" alt="Profile repository stars" />
+    <img src="https://img.shields.io/github/stars/Kaynexx/Kaynexx?style=for-the-badge&logo=github&logoColor=white&label=PROFILE%20REPO%20STARS&color=D97706" alt="Profile repository stars" />
   </a>
   <a href="https://github.com/Kaynexx/Kaynexx/commits/main/">
     <img src="https://img.shields.io/github/last-commit/Kaynexx/Kaynexx?style=for-the-badge&logo=github&logoColor=white&label=LAST%20PROFILE%20UPDATE&color=00A88F" alt="Last profile repository update" />
