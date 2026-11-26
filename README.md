@@ -80,14 +80,14 @@ I’m a **3D Artist and Creative Technologist** focused on automotive visualizat
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="#automotive-3d"><img src="./assets/project-automotive.jpg" alt="Automotive 3D — cinematic performance car render" width="100%" /></a>
+      <a href="#automotive-render-series"><img src="./assets/project-automotive.jpg" alt="Automotive 3D — cinematic performance car render" width="100%" /></a>
       <h3>Automotive Render Series</h3>
       High-end vehicle renders, cinematic lighting, realistic materials, and studio environments.
       <br /><br />
       <img src="https://img.shields.io/badge/BLENDER-3D-orange?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
       <img src="https://img.shields.io/badge/UNREAL-REAL--TIME-202020?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
       <br /><br />
-      <a href="#automotive-3d">View project details ↗</a>
+      <a href="#automotive-render-series">View project details ↗</a>
     </td>
     <td width="33%" valign="top">
       <a href="#cyberlab"><img src="./assets/project-cyberlab.jpg" alt="CyberLab — green cybersecurity visual" width="100%" /></a>
@@ -114,15 +114,13 @@ I’m a **3D Artist and Creative Technologist** focused on automotive visualizat
 
 ### Project Details
 
-<a id="automotive-3d"></a>
-#### 🚘 Automotive Render Series
+#### Automotive Render Series
 
 An ongoing portfolio of automotive visualization work: vehicle modeling and preparation, paint and material development, studio lighting, camera composition, and cinematic rendering.
 
 **Workflow:** Blender · Unreal Engine · DaVinci Resolve
 
-<a id="cyberlab"></a>
-#### 🟢 CyberLab — cybersecurity learning concept
+#### CyberLab
 
 A Flask-based learning-platform concept intended to organize cybersecurity topics, learning resources, and practical study material in one interface.
 
@@ -130,8 +128,7 @@ A Flask-based learning-platform concept intended to organize cybersecurity topic
 
 **Stage:** In development
 
-<a id="gamepulse"></a>
-#### 🔴 GamePulse — gaming observatory concept
+#### GamePulse
 
 A dashboard concept for presenting gaming activity and player statistics through a dark, data-focused interface.
 
