@@ -156,8 +156,8 @@ I’m **KAYNEX** — a 3D Artist and Creative Technologist focused on automotive
 
 <div align="center">
 
-  <a href="https://github.com/Kaynexx?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Kaynexx?style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOSITORIES&color=2F80ED" alt="Public repositories" />
+  <a href="https://github.com/Kaynexx">
+    <img src="https://komarev.com/ghpvc/?username=Kaynexx&style=for-the-badge&color=2F80ED&label=PROFILE%20VIEWS" alt="Profile views" />
   </a>
   <a href="https://github.com/Kaynexx?tab=followers">
     <img src="https://img.shields.io/github/followers/Kaynexx?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B5CF6" alt="GitHub followers" />
