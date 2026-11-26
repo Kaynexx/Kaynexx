@@ -13,10 +13,10 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/◇_AUTOMOTIVE_3D-8B5CF6?style=flat-square&labelColor=21152E" alt="Automotive 3D" />
-    <img src="https://img.shields.io/badge/◈_REAL--TIME_3D-A78BFA?style=flat-square&labelColor=21152E" alt="Real-time 3D" />
-    <img src="https://img.shields.io/badge/⌘_DEVELOPMENT-C4B5FD?style=flat-square&labelColor=21152E" alt="Development" />
-    <img src="https://img.shields.io/badge/✳_CINEMATIC_VISUALS-9333EA?style=flat-square&labelColor=21152E" alt="Cinematic visuals" />
+    <img src="https://img.shields.io/badge/AUTOMOTIVE_3D-8B5CF6?style=flat-square&labelColor=21152E" alt="Automotive 3D" />
+    <img src="https://img.shields.io/badge/REAL--TIME_3D-A78BFA?style=flat-square&labelColor=21152E" alt="Real-time 3D" />
+    <img src="https://img.shields.io/badge/DEVELOPMENT-C4B5FD?style=flat-square&labelColor=21152E" alt="Development" />
+    <img src="https://img.shields.io/badge/CINEMATIC_VISUALS-9333EA?style=flat-square&labelColor=21152E" alt="Cinematic visuals" />
   </p>
 
 </div>
@@ -120,38 +120,36 @@ I'm a **3D Artist and Creative Technologist** focused on automotive visualizatio
 
 ## <img src="https://img.shields.io/badge/04-PROJECT_NOTES-21152E?style=flat-square&labelColor=21152E&color=8B5CF6" alt="04 Project notes" />
 
-<a id="automotive-render-series"></a>
-<details>
-  <summary><strong>🚘 Automotive Render Series</strong></summary>
-
-  An ongoing portfolio of automotive visualization work exploring vehicle form, paint and material development, studio lighting, camera composition, and cinematic rendering.
-
-  **Workflow:** Blender · Unreal Engine · DaVinci Resolve
-
-  **Portfolio:** <a href="https://www.artstation.com/txkaylo">ArtStation</a>
-</details>
-
-<a id="cyberlab"></a>
-<details>
-  <summary><strong>🟢 CyberLab — cybersecurity learning concept</strong></summary>
-
-  A Flask-based learning-platform concept for organizing cybersecurity topics, learning resources, and practical study material in one interface.
-
-  **Workflow:** Python · Flask · HTML · CSS · JavaScript
-
-  **Stage:** In development
-</details>
-
-<a id="gamepulse"></a>
-<details>
-  <summary><strong>🟣 GamePulse — gaming observatory concept</strong></summary>
-
-  A dashboard concept for presenting gaming activity and player statistics through a dark, data-focused interface.
-
-  **Workflow:** Python · Flask · JavaScript · Three.js
-
-  **Stage:** Prototype
-</details>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🚘 Automotive Render Series</h3>
+      <sub>ONGOING</sub><br /><br />
+      Vehicle modeling, materials, lighting, cinematic camera work, and final renders.
+      <br /><br />
+      <strong>Workflow</strong><br />
+      Blender · Unreal Engine · DaVinci Resolve
+      <br /><br />
+      <a href="https://www.artstation.com/txkaylo">View portfolio ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🟢 CyberLab</h3>
+      <sub>IN DEVELOPMENT</sub><br /><br />
+      A cybersecurity learning platform built around topic guides, curated resources, and practical simulations.
+      <br /><br />
+      <strong>Workflow</strong><br />
+      Python · Flask · HTML · CSS · JavaScript
+    </td>
+    <td width="33%" valign="top">
+      <h3>🟣 GamePulse</h3>
+      <sub>PROTOTYPE</sub><br /><br />
+      A gaming observatory concept for player activity, game data, and dashboard analytics.
+      <br /><br />
+      <strong>Workflow</strong><br />
+      Python · Flask · JavaScript · Three.js
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -174,7 +172,14 @@ I'm a **3D Artist and Creative Technologist** focused on automotive visualizatio
     </tr>
   </table>
 
-  <h3>“Turning automotive passion into digital experiences.”</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <h3>“Turning automotive passion into digital experiences.”</h3>
+        <sub>— K A Y N E X</sub>
+      </td>
+    </tr>
+  </table>
 
   <p>
     <a href="https://github.com/Kaynexx"><img src="https://img.shields.io/badge/GitHub-Visit-21152E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
