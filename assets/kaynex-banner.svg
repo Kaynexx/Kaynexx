@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">KAYNEX — Creative Technologist</title>
+  <desc id="desc">A dark graphite automotive-inspired banner with cyan light trails, a technical grid and a stylized performance coupe silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D12"/><stop offset=".52" stop-color="#111B24"/><stop offset="1" stop-color="#05090D"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F1F6FA"/><stop offset=".28" stop-color="#687986"/><stop offset=".55" stop-color="#D8E3E9"/><stop offset="1" stop-color="#394955"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2B91B8" stop-opacity="0"/><stop offset=".5" stop-color="#65DFFF"/><stop offset="1" stop-color="#2B91B8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#29B8E7" stop-opacity=".23"/><stop offset="1" stop-color="#29B8E7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#7D9BAB" stroke-opacity=".12" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.4" fill="#6CCBE7" fill-opacity=".25"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1400" height="420" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1100" cy="250" rx="440" ry="230" fill="url(#glow)"/>
+  <path d="M0 340H1400" stroke="#89A7B7" stroke-opacity=".2"/>
+  <path d="M0 354H880" stroke="url(#cyan)" stroke-width="2"/>
+  <path d="M0 365H700" stroke="#52C9F2" stroke-opacity=".16"/>
+  <path d="M790 0L560 420M850 0L620 420" stroke="#5BCFF1" stroke-opacity=".08"/>
+  <g fill="none" stroke="#6BD7F4" stroke-opacity=".17">
+    <path d="M875 54H1330V308H875Z" stroke-dasharray="5 8"/>
+    <path d="M925 88H1294M925 104H1185M925 120H1240"/>
+    <circle cx="1300" cy="72" r="3" fill="#6BD7F4"/>
+    <circle cx="1276" cy="72" r="3" fill="#6BD7F4" fill-opacity=".5"/>
+    <circle cx="1252" cy="72" r="3" fill="#6BD7F4" fill-opacity=".25"/>
+  </g>
+  <g transform="translate(54 58)">
+    <path d="M0 0H46V4H4V46H0Z" fill="#68D9F6"/>
+    <text x="0" y="118" fill="#F4F8FA" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="5">KAYNEX</text>
+    <rect x="3" y="143" width="250" height="3" rx="1.5" fill="#55CDED"/>
+    <text x="2" y="184" fill="#C6D3DB" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="4">CREATIVE TECHNOLOGIST</text>
+    <text x="2" y="222" fill="#8296A4" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2.6">AUTOMOTIVE 3D  /  REAL-TIME VISUALIZATION</text>
+    <text x="2" y="288" fill="#5D7685" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">DESIGN  ·  BUILD  ·  REFINE</text>
+  </g>
+  <g transform="translate(640 90)">
+    <path d="M36 191L86 150L154 130L208 73L335 50L423 73L494 122L570 139L624 180L640 208L618 222H34L16 209Z" fill="#0A1117" stroke="url(#metal)" stroke-width="3"/>
+    <path d="M163 129L221 83L324 64L405 82L456 126Z" fill="#172630" stroke="#7E9AA8" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M226 83L251 127M402 83L436 126" stroke="#A8BAC4" stroke-opacity=".45" stroke-width="2"/>
+    <path d="M35 190L105 169L166 165L202 180L255 184L391 184L452 164L520 169L625 194" fill="none" stroke="#B8CAD3" stroke-opacity=".5" stroke-width="2"/>
+    <path d="M35 193L97 183L151 180" stroke="#57D8F7" stroke-width="5" stroke-linecap="round"/>
+    <path d="M524 181L603 197" stroke="#57D8F7" stroke-width="5" stroke-linecap="round"/>
+    <path d="M86 150L151 130L208 73L335 50L423 73L494 122" fill="none" stroke="#EDF5F8" stroke-opacity=".4" stroke-width="2"/>
+    <path d="M216 145H435" stroke="#6A8491" stroke-opacity=".45"/>
+    <path d="M278 153L323 153L340 166H262Z" fill="#060A0E" stroke="#6D8794" stroke-width="2"/>
+    <g fill="#06090C" stroke="#9DB1BC" stroke-width="4">
+      <circle cx="176" cy="207" r="48"/><circle cx="176" cy="207" r="28"/>
+      <circle cx="500" cy="207" r="48"/><circle cx="500" cy="207" r="28"/>
+    </g>
+    <g stroke="#6CCFEA" stroke-opacity=".7" stroke-width="3">
+      <path d="M176 163V251M132 207H220M145 176L207 238M207 176L145 238"/>
+      <path d="M500 163V251M456 207H544M469 176L531 238M531 176L469 238"/>
+    </g>
+    <path d="M30 238H648" stroke="#69D9F6" stroke-opacity=".5" stroke-width="2"/>
+    <path d="M70 249H580" stroke="#A7BAC5" stroke-opacity=".16"/>
+  </g>
+  <g transform="translate(1260 348)" fill="none" stroke="#5CCFEB" stroke-opacity=".7">
+    <circle r="34" stroke-width="1.5"/><circle r="24" stroke-opacity=".4"/><path d="M-13 0H13M0-13V13" stroke-width="2"/>
+  </g>
+  <text x="1344" y="392" text-anchor="end" fill="#688190" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">KX / 001</text>
+  <rect x="1" y="1" width="1398" height="418" rx="17" fill="none" stroke="#8EAAB8" stroke-opacity=".3"/>
+</svg>
