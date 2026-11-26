@@ -19,7 +19,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/BASED_IN-TASHKENT%2C_UZBEKISTAN-111827?style=flat-square&labelColor=111827&color=263746" alt="Based in Tashkent, Uzbekistan" />
     <img src="https://img.shields.io/badge/FOCUS-AUTOMOTIVE_3D-111827?style=flat-square&labelColor=111827&color=00B8D9" alt="Focus: Automotive 3D" />
     <img src="https://img.shields.io/badge/STYLE-CINEMATIC-111827?style=flat-square&labelColor=111827&color=8B5CF6" alt="Style: Cinematic" />
   </p>
