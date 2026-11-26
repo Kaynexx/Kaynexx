@@ -1,5 +1,7 @@
 <div align="center">
   <img src="./assets/kaynex-banner.svg" alt="KAYNEX — automotive creative technology" width="100%" />
+  <br />
+  <img src="./assets/kaynex-mark.svg" alt="KAYNEX monogram" width="76" />
   <h1>KAYNEX</h1>
   <p><strong>3D Artist · Creative Technologist</strong></p>
   <p>Automotive Visualization&nbsp; / &nbsp;Real-Time 3D&nbsp; / &nbsp;Creative Development</p>
