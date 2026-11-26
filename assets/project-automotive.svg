@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" role="img" aria-labelledby="t">
+<title id="t">Automotive Render Series</title>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090812"/><stop offset=".55" stop-color="#171126"/><stop offset="1" stop-color="#05060b"/></linearGradient>
+<linearGradient id="car" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#a9a2bd"/><stop offset=".18" stop-color="#393247"/><stop offset=".55" stop-color="#12121d"/><stop offset="1" stop-color="#4c3a6c"/></linearGradient>
+<linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="480" height="270" fill="url(#b)"/>
+<path d="M0 208H480" stroke="#a78bfa" stroke-opacity=".22"/>
+<ellipse cx="248" cy="220" rx="190" ry="20" fill="#8b5cf6" opacity=".12"/>
+<path d="M53 190L82 165L142 151L188 111Q205 96 232 96H316Q337 96 356 120L391 154L429 170L441 192L412 202H68Z" fill="url(#car)" stroke="#c4b5fd" stroke-opacity=".72" stroke-width="2"/>
+<path d="M158 151L204 112Q214 104 234 104H310Q326 104 339 124L358 150Z" fill="#161222" stroke="#9585bd" stroke-width="1.5"/>
+<path d="M215 109L226 150M316 108L338 150" stroke="#d9d1ea" stroke-opacity=".38"/>
+<path d="M67 177L123 163L164 165M367 163L420 180" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+<path d="M59 190H431" stroke="#eee9ff" stroke-opacity=".35"/>
+<g fill="#090810" stroke="#a78bfa" stroke-width="5"><circle cx="143" cy="196" r="30"/><circle cx="354" cy="196" r="30"/></g>
+<g fill="none" stroke="#e9d5ff" stroke-opacity=".65" stroke-width="2"><circle cx="143" cy="196" r="18"/><circle cx="354" cy="196" r="18"/><path d="M143 178V214M125 196H161M354 178V214M336 196H372"/></g>
+<path d="M20 236C130 220 302 225 458 237" stroke="url(#violet)" stroke-width="2"/>
+<text x="24" y="34" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">AUTOMOTIVE / 3D</text>
+<text x="24" y="53" fill="#8e85a5" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">LIGHT • MATERIAL • FORM</text>
+<rect x="1" y="1" width="478" height="268" fill="none" stroke="#a78bfa" stroke-opacity=".28"/>
+</svg>
