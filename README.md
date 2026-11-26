@@ -1,19 +1,13 @@
-## Hi there 👋
 <div align="center">
-  <img src="./assets/kaynex-banner.png" alt="KAYNEX — Creative Technologist and 3D Artist" width="100%" />
+  <img src="./assets/kaynex-banner.svg" alt="KAYNEX — automotive creative technology" width="100%" />
+  <h1>KAYNEX</h1>
+  <p><strong>3D Artist · Creative Technologist</strong></p>
+  <p>Automotive Visualization&nbsp; / &nbsp;Real-Time 3D&nbsp; / &nbsp;Creative Development</p>
+  <p>
+    <img src="https://img.shields.io/badge/FOCUS-AUTOMOTIVE%203D-111A21?style=flat-square&labelColor=111A21&color=59CBEA" alt="Focus: Automotive 3D" />
+    <img src="https://img.shields.io/badge/TOOLS-BLENDER%20%2B%20UNREAL-111A21?style=flat-square&labelColor=111A21&color=59CBEA" alt="Tools: Blender and Unreal Engine" />
+  </p>
 </div>
-
-<h1 align="center">KAYNEX</h1>
-
-<p align="center">
-  <strong>3D Artist · Creative Technologist</strong><br />
-  Automotive Visualization · Real-Time 3D · Creative Development
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMOTIVE%203D-101820?style=flat-square&labelColor=101820&color=58C7E8" alt="Focus: automotive 3D" />
-  <img src="https://img.shields.io/badge/WORKFLOW-BLENDER%20%2B%20UNREAL-101820?style=flat-square&labelColor=101820&color=58C7E8" alt="Workflow: Blender and Unreal Engine" />
-</p>
 
 ---
 
@@ -21,15 +15,15 @@
 
 I create automotive-focused 3D visuals, cinematic environments, and real-time scenes. I also explore software and creative tools that bring technical ideas to life.
 
-I care about strong visual direction, convincing materials, thoughtful lighting, and clean execution.
+My work is driven by visual direction, convincing materials, deliberate lighting, and clean execution.
 
-## Focus areas
+## Focus
 
-- **Automotive visualization** — vehicle materials, studio scenes, lighting, and cinematic renders.
+- **Automotive visualization** — vehicle materials, studio environments, lighting, and cinematic renders.
 - **Real-time 3D** — interactive environments and presentation workflows in Unreal Engine.
 - **Creative development** — Python and web experiments for useful digital experiences.
 
-## Tools & technologies
+## Tools
 
 <p>
   <img src="https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
@@ -44,38 +38,22 @@ I care about strong visual direction, convincing materials, thoughtful lighting,
 
 ## Selected work
 
-| Project | What it is | Status |
+| Project | Description | Stage |
 |:--|:--|:--|
-| **Automotive 3D** | Vehicle visualization, materials, lighting, and cinematic scene experiments. | Ongoing |
-| **CyberLab** | An experiment in building a cybersecurity learning platform. | In development |
+| **Automotive 3D** | Vehicle visualization, materials, lighting, and cinematic scene studies. | Ongoing |
+| **CyberLab** | A cybersecurity learning-platform concept. | Prototype |
 | **GamePulse** | A gaming-data dashboard concept. | Prototype |
 
-> Public project repositories and breakdowns will be linked here as they are published.
+## Current direction
 
-## Current priorities
-
-- Building a stronger automotive visualization portfolio.
-- Improving real-time rendering and cinematic presentation workflows.
-- Developing practical creative and web-based tools.
+- Developing a distinctive automotive visualization portfolio.
+- Refining real-time rendering and cinematic presentation workflows.
+- Building practical creative and web-based tools.
 
 ---
 
-<p align="center">
-  <sub>Designed and built by KAYNEX</sub>
-</p>
-
-<!--
-**Kaynexx/Kaynexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...  [README.md](https://github.com/user-attachments/files/35467139/README.md)
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>Designed with intent. Built by KAYNEX.</sub>
+  <br />
+  <sub><a href="https://github.com/Kaynexx">GitHub Profile</a></sub>
+</div>
