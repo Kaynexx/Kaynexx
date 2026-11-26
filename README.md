@@ -41,6 +41,25 @@ I’m a **3D Artist and Creative Technologist** focused on automotive visualizat
   </tr>
 </table>
 
+## Currently Working On
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>🚘 Automotive Render Series</strong><br />
+      <img src="https://img.shields.io/badge/STATUS-ONGOING-101F30?style=flat-square&color=2789C7" alt="Ongoing" />
+    </td>
+    <td width="33%">
+      <strong>🟢 CyberLab</strong><br />
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-0B2B22?style=flat-square&color=169B62" alt="In development" />
+    </td>
+    <td width="33%">
+      <strong>🔴 GamePulse</strong><br />
+      <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-2B1D08?style=flat-square&color=D97706" alt="Prototype" />
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
 <table>
