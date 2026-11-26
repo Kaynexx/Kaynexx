@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 400" role="img" aria-labelledby="t d">
+<title id="t">KAYNEX — Abstract Flow</title>
+<desc id="d">Minimal dark graphite and violet glass ribbons with KAYNEX creative technology branding.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08070d"/><stop offset=".55" stop-color="#100c19"/><stop offset="1" stop-color="#05050a"/></linearGradient>
+  <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".02"/><stop offset=".25" stop-color="#a78bfa" stop-opacity=".24"/><stop offset=".52" stop-color="#f5f3ff" stop-opacity=".12"/><stop offset=".8" stop-color="#7c3aed" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6d28d9" stop-opacity="0"/><stop offset=".38" stop-color="#c4b5fd"/><stop offset=".68" stop-color="#a855f7"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#b8a2f7" stroke-opacity=".07"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
+</defs>
+<rect width="1400" height="400" rx="18" fill="url(#bg)"/>
+<rect width="1400" height="400" rx="18" fill="url(#grid)"/>
+<ellipse cx="1050" cy="230" rx="480" ry="290" fill="url(#glow)"/>
+<path d="M560 400C680 300 720 150 870 90S1130 210 1400 20" fill="none" stroke="#8b5cf6" stroke-width="68" opacity=".16" filter="url(#blur)"/>
+<path d="M500 405C690 300 735 120 905 86S1170 240 1415 20L1415 106C1200 335 1060 178 902 150S700 335 620 405Z" fill="url(#ribbon)" stroke="#bba2ff" stroke-opacity=".28" stroke-width="1.5"/>
+<path d="M560 405C730 300 780 190 910 166S1135 275 1408 76" fill="none" stroke="url(#edge)" stroke-width="3"/>
+<path d="M720 0C830 82 905 170 1030 183S1250 145 1410 220" fill="none" stroke="#e9d5ff" stroke-opacity=".22" stroke-width="2"/>
+<path d="M790 400C880 270 930 95 1085 -5" fill="none" stroke="#c4b5fd" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M0 330C210 306 390 330 560 267S760 115 920 145" fill="none" stroke="#a78bfa" stroke-opacity=".24" stroke-width="2"/>
+<path d="M0 346C220 320 383 346 566 285S750 144 912 172" fill="none" stroke="#a78bfa" stroke-opacity=".12" stroke-width="10" filter="url(#blur)"/>
+<g fill="#c4b5fd"><circle cx="82" cy="88" r="1.8" opacity=".45"/><circle cx="202" cy="300" r="1.5" opacity=".4"/><circle cx="510" cy="75" r="1.4" opacity=".4"/><circle cx="1200" cy="72" r="1.8" opacity=".55"/><circle cx="1322" cy="310" r="1.5" opacity=".45"/></g>
+<path d="M70 82V55H97M70 55H97M1300 346H1328V319" fill="none" stroke="#c4b5fd" stroke-opacity=".7" stroke-width="2"/>
+<g font-family="Inter,Arial,sans-serif">
+  <text x="94" y="143" fill="#b9a0ff" font-size="13" font-weight="600" letter-spacing="7">PORTFOLIO / 001</text>
+  <text x="90" y="232" fill="#f6f4fb" font-size="76" font-weight="700" letter-spacing="13">KAYNEX</text>
+  <path d="M94 255H440" stroke="#a78bfa" stroke-width="3"/>
+  <text x="94" y="294" fill="#d8d1e8" font-size="21" font-weight="500" letter-spacing="7">CREATIVE TECHNOLOGIST</text>
+  <text x="96" y="342" fill="#998aaF" font-size="13" letter-spacing="3.2">3D VISUALIZATION  /  REAL-TIME  /  DEVELOPMENT</text>
+</g>
+<rect x="1" y="1" width="1398" height="398" rx="17" fill="none" stroke="#b8a2f7" stroke-opacity=".22"/>
+</svg>
